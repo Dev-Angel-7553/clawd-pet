@@ -78,7 +78,7 @@ Clawd Pet - это интерактивный виртуальный питом�
 ## Установка
 
 ### Готовый APK
-1. Скачай `app-debug.apk` из релизов
+1. Скачай `clawd-pet.apk` из релизов
 2. Включи "Установка из неизвестных источников" в настройках Android
 3. Установи APK
 4. Разреши наложение поверх других окон
@@ -199,10 +199,6 @@ MIT License - делай с этим что хочешь!
 
 ### Понравилось? Поставь звезду!
 
-**Найди баг?** Открой [issue](https://github.com/yourusername/clawd-pet/issues)
-
-**Хочешь помочь?** Создай [pull request](https://github.com/yourusername/clawd-pet/pulls)
-
 </div>
 
 ---
@@ -247,7 +243,7 @@ MIT License - делай с этим что хочешь!
 ## 📲 Установка
 
 ### Готовый APK
-1. Скачай `clawd-pet-v1.1.apk` из релизов
+1. Скачай `clawd-pet.apk` из релизов
 2. Включи "Установка из неизвестных источников" в настройках Android
 3. Установи APK
 4. Разреши наложение поверх других окон
@@ -367,9 +363,5 @@ MIT License - делай с этим что хочешь!
 <div align="center">
 
 ### 🌟 Понравилось? Поставь звезду!
-
-**Найди баг?** Открой [issue](https://github.com/yourusername/clawd-pet/issues)
-
-**Хочешь помочь?** Создай [pull request](https://github.com/yourusername/clawd-pet/pulls)
 
 </div>
