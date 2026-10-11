@@ -102,7 +102,7 @@ Clawd Pet - это интерактивный виртуальный питом�
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/clawd-pet.git
+git clone https://github.com/Dev-Angel-7553/clawd-pet.git
 cd clawd-pet
 
 # Собрать Debug APK
@@ -267,7 +267,7 @@ MIT License - делай с этим что хочешь!
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/clawd-pet.git
+git clone https://github.com/Dev-Angel-7553/clawd-pet.git
 cd clawd-pet
 
 # Собрать Debug APK
